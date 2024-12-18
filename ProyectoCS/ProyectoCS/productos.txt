@@ -1,0 +1,7 @@
+**Registro de Acciones en el Inventario**   |
++++ = Producto Agregado			    |
+$$$ = Producto Modificado		    |
+--- = Producto Eliminado		    |
+---------------------------------------------
+
+
